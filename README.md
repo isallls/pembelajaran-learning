@@ -26,18 +26,7 @@
   </a>
 </div>
 
-<img height="150" src="https://cdn-image.hipwee.com/wp-content/uploads/2019/09/hipwee-4-4-730x422.jpg"  />
+<img height="150"  src="https://cdn-image.hipwee.com/wp-content/uploads/2019/09/hipwee-4-4-730x422.jpg" />
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zivalez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zivalez&radius=16&theme=react&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
 
 ###
